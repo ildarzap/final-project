@@ -1,0 +1,7 @@
+# Игнорировать node_modules
+node_modules/
+
+# Игнорировать файлы и каталоги, связанные с окружением
+.env
+.env.local
+.env.*.local
